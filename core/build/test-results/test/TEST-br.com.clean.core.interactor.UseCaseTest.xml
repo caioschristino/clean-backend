@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.clean.core.interactor.UseCaseTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-17T13:27:40" hostname="MacBook-Pro-de-caio.local" time="0.014">
+  <properties/>
+  <testcase name="given guard denial, when use case start then call no other()" classname="br.com.clean.core.interactor.UseCaseTest" time="0.004"/>
+  <testcase name="given execute raises exception, then call execute, onError only()" classname="br.com.clean.core.interactor.UseCaseTest" time="0.005"/>
+  <testcase name="given guard allowance, then call execute, onResult only()" classname="br.com.clean.core.interactor.UseCaseTest" time="0.002"/>
+  <testcase name="given guard raises exception, then call onError only()" classname="br.com.clean.core.interactor.UseCaseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

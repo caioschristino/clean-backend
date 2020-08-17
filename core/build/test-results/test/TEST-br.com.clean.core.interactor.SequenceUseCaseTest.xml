@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.clean.core.interactor.SequenceUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-17T13:27:40" hostname="MacBook-Pro-de-caio.local" time="0.047">
+  <properties/>
+  <testcase name="given two use cases and one of them raises exception, then return has one error value()" classname="br.com.clean.core.interactor.SequenceUseCaseTest" time="0.042"/>
+  <testcase name="given two use cases, when sequence is invoked, then get return in insert order()" classname="br.com.clean.core.interactor.SequenceUseCaseTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
